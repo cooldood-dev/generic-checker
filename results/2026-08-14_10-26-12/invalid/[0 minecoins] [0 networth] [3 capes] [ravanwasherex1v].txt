@@ -1,0 +1,31 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– ID: 9ba6fa5971c04eb0b8eab527b405edf0
+– Username: ravanwasherex1v
+– Xbox: jiro5144222
+– Skins: 1
+– Capes: 3 (Pan, Migrator, Common)
+– Purchases: 2 (minecraft_bedrock, minecraft)
+– Minecoins: 0
+– Hypixel skyblock networth: 0
+– Cookies: Cloud WebSite russia34.com
+
+login.microsoftonline.com	FALSE	/	TRUE	1792558804	MSFPC	GUID=6d65e2cba71e427a8eaee07a98cdcc07&HASH=6d65&LV=202411&V=4&LU=1731409657106
+login.microsoftonline.com	FALSE	/	TRUE	1792558818	MicrosoftApplicationsTelemetryDeviceId	aa304058-8b11-474f-888c-758fb85929c9
+login.microsoftonline.com	FALSE	/	TRUE	1787623968	fpc	Arb1BLtMut5Ok4W1P3VmV1I
+www.microsoft.com	FALSE	/	TRUE	1793796489	MicrosoftApplicationsTelemetryDeviceId	fb28d0ed-fcd2-48f8-a614-c4c5145adff9
+.microsoft.com	TRUE	/	FALSE	1793796489	_clck	q0brgz%5E2%5Eg0q%5E1%5E1405
+.microsoft.com	TRUE	/	FALSE	1795956489	_uetvid	e7e198107d2f11eebeeb65918ab0a401
+.login.live.com	TRUE	/	TRUE	1814281174	MSCC	132.147.119.112-SG
+.login.live.com	TRUE	/	TRUE	1818727968	JSHP	3$matthewchia4%40gmail.com$matthew$chia$uXCccoTL$2$0$0$14655539816265787731$1
+.login.live.com	TRUE	/	TRUE	1818727968	MSPCID	ea0782a6cd95d9d2
+.login.live.com	TRUE	/	TRUE	1818727968	MSPPre	matthewchia4%40gmail.com%7cea0782a6cd95d9d2%7c%7c
+.live.com	TRUE	/	TRUE	1802340768	ANON	A=AB886410406A621598804519FFFFFFFF&E=20e6&W=1
+.live.com	TRUE	/	TRUE	1818727968	MSPAuth	Disabled
+.live.com	TRUE	/	TRUE	1818727968	MSPProf	Disabled
+.live.com	TRUE	/	TRUE	1793700768	NAP	V=1.9&E=208c&C=X4a3eWBKx-6eAy2paoS7vWD3HniCC_mSrlwKWfNSe2cs6yckJzSUVA&W=1
+.live.com	TRUE	/	TRUE	1818727968	PPLState	1
+.live.com	TRUE	/	TRUE	1818727968	WLSSC	EgArAgMAAAAMgAAAxwABahpZsldyxkuGWZfP9fLkokeYw7j2mwQCxuXOxN4LqMWG05GmdnrsQSRZN0aKN16ehy+mUKDowsukLBakluCCF/2CBfWsz83FLdHuw2UZgICZIJfNNu3kjO2P9tBDg41KPgktaeJJ/MVhElFRU6mGUPk5+sIN0gr+twHLLSHW9MF7mhkGKtS99C44FX2UNHeoCbR7agMBkhvOpAMKMQSbs3/j8Ib4DfeLPZMVcVj7og+ZO50olHRx4g2pfC8/LlnIGtvBl4rZn6ubf1fXleW+cXXLKPV9F5skmIl3521cOyKNqiO8p6andvIe43W23ahzFc904PfDeLRa+pkT44g/BBoBgQAaAQAAAwDvQ3wsIG1laiXH8WkQJwAAChCgAAAXAG1hdHRoZXdjaGlhNEBnbWFpbC5jb20AXAAAI21hdHRoZXdjaGlhNCVnbWFpbC5jb21AcGFzc3BvcnQuY29tAAAAJVNHAAAAAAAABAkCAACR0lVAAAZBAAdtYXR0aGV3AARjaGlhAAAAAAAAAAAAAAAAAAAAAAAAzZXZ0uoHgqYAACBtZWofFNxqAAAAAAAAAAAAAAAADQA0My4yMzAuOTYuNjgABQMAAAAMQBgAi1cwSQQBBAAAAAAAAAAAABp8k2AAANDvYstTqR2EDIAYALYrIf0MQBgAU/WwRwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA
+login.live.com	FALSE	/	TRUE	1818727968	__Host-MSAAUTHP	11-M.C558_SN1.0.U.MsaArtifacts.CjOuz!FtZHVKCCe7vaSCQH2c0DH82q0MWUc4dK*i8wyf76AiKDF8hAfJHPSYxClJ8Ou*1RGdYC1mvkRtxiSilZ*z4x!OFveCJKBtxqvAymFOSM9gFe*sfdmNBBJMn5LmRMuNDaak2dHwy*FVL5iuyIM4REfp3hCy9j3KfmLz1PC6QOYFFU22wLCYapg8hXDRHbzN!TR0e!f!9k8vZCvtZvISwdUFAy066Tl4wE7e!hsExB7mGMnIlzAMkqBVXpkS*oo3TVTY7vT!RDhWV9TskUW7eHc2mI*eCYCAjmoHBrkVxGMyVwcXM5svscug75SINBQerTE5v3ubU7Q!Hs*eP2dQvLukCyM3HfkCWHQWo39H
+.login.microsoftonline.com	TRUE	/	TRUE	1794718791	brcap	0

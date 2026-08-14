@@ -1,0 +1,13 @@
+cookies/*
+!cookies/.gitkeep
+hits/*
+!hits/.gitkeep
+invalid/*
+!invalid/.gitkeep
+no_minecraft/*
+!no_minecraft/.gitkeep
+results.txt
+proxies.txt
+cookie_checker.exe
+checker.exe
+*.exe
