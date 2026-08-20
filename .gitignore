@@ -1,0 +1,60 @@
+# --- secrets / local runtime data (never commit) ---
+cookies/**
+!cookies/.gitkeep
+results/**
+!results/.gitkeep
+hits/
+invalid/
+no_minecraft/
+config.json
+proxies.txt
+*proxies*.txt
+!proxies.example.txt
+*.session
+*.session-journal
+tg_txt_downloads/
+*.log
+errors.txt
+errors.log
+results.txt
+
+# --- binaries / build output ---
+*.exe
+*.dll
+*.so
+*.dylib
+build/bin/
+frontend/dist/
+frontend/package.json.md5
+
+# --- dependencies / envs ---
+frontend/node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.Python
+.python-version
+
+# --- IDE / OS ---
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- scratch / vendor dumps (not part of the app) ---
+_ui_src/
+complete_workflow/
+_proxy_test.go
+*.zip
+*.7z
+*.rar
+
+# --- Go ---
+*.test
+coverage.out
+coverage.html

@@ -1,0 +1,18 @@
+{
+  "cookiesDir": "cookies",
+  "comboPath": "",
+  "ulpPath": "",
+  "proxyFile": "proxies.txt",
+  "workers": 100,
+  "timeoutSec": 25,
+  "doHypixel": true,
+  "doRename": true,
+  "skinFile": "",
+  "skinVariant": "classic",
+  "allFiles": false,
+  "noCookies": false,
+  "noCreds": false,
+  "ulpAll": false,
+  "relocate": "copy",
+  "runName": ""
+}
